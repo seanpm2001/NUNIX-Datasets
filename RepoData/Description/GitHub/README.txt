@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🧠️🛢️💾️ The official core source repository for the NUNIX Dataset collection, a set of datasets for the NUNIX operating system. Part of the NUNIX operating system project. 
